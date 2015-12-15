@@ -1,0 +1,13 @@
+﻿Сборка начата 14.12.2015 23:48:04.
+     1>Проект "C:\Users\nesol_000\Desktop\Stack\GTest_lib\GTest_lib.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\nesol_000\Desktop\Stack\GTest_lib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\GTest_lib.pdb" /Gd /TP /analyze- /errorReport:prompt "gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\nesol_000\Desktop\Stack\Debug\GTest_lib.lib" /NOLOGO "Debug\gtest-all.obj"
+         GTest_lib.vcxproj -> C:\Users\nesol_000\Desktop\Stack\Debug\GTest_lib.lib
+     1>Сборка проекта "C:\Users\nesol_000\Desktop\Stack\GTest_lib\GTest_lib.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.95
