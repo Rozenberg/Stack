@@ -1,8 +1,0 @@
-﻿Построение начато 15.12.2015 7:15:57.
-     1>Проект "C:\Users\DNS\Desktop\Новая папка\Stack\Stack_test\Stack_test.vcxproj" в узле 2 (целевые объекты Build).
-     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v140 to build using the v140 build tools.
-     1>Построение проекта "C:\Users\DNS\Desktop\Новая папка\Stack\Stack_test\Stack_test.vcxproj" завершено (целевые объекты Build) с ошибкой.
-
-Сбой построения.
-
-Затраченное время: 00:00:00.04
